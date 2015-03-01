@@ -79,7 +79,7 @@ html {
 	box-sizing:         border-box;
 }
 body {
-	background-image:url('../../../img/rockbgnorepeat.jpg');
+	background-image:url('img/bg.jpg');
 	background-repeat:no-repeat;
         background-attachment:fixed;
 }
@@ -402,7 +402,7 @@ a:active {
 	display: block;
 	float: left;
 	width: 100%;
-        background-color: #00ff00;
+
 }
 .main-navigation ul {
 	list-style: none;
@@ -830,9 +830,9 @@ object {
 	       max-height:.70em;
                overflow-y:hidden;
                font-size: 5em;
-               font-family: Impact, Charcoal, sans-serif; 
+               font-family: Impact, Charcoal, sans-serif;
                font-style: italic;
-               color: #00ff00;
+
 }
 .site-branding-span{
 	       position: absolute;
@@ -844,7 +844,7 @@ object {
              min-height:100%;
              position:relative;
        }
-       
+
 
 
        #content {
@@ -881,7 +881,3 @@ object {
 	             font-weight: bold;
                      text-decoration: none;
                    }
-
-
-
-
